@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Phuong Anh
-- 👀 I’m interested in reading book, walking in the fresh air
+- 👀 I’m interested in reading book, walking in the fresh air and listening remix music
 - 🌱 I’m currently learning data science
-- A flexible and adaptable individual who has a broad range of experience who is very polite, friendly and well-motivated with a willingness to help others and give a 100% to any task undertaken
-- Trustworthy and reliable with an excellent time keeping and attendance record
-- Adapts easily to new challenges and situations and is highly motivated into getting back into work
