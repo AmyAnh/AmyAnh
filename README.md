@@ -1,3 +1,3 @@
 - Hi, xin chào, I’m Phuong Anh
-- I’m interested in reading book, walking in the fresh air and listening remix music
-- I’m currently learning data science (Math - Technology - Business)
+- I’m interested in reading book, walking in the fresh air, listening remix music and (Math - Technology - Business)
+- I’m currently learning data science
